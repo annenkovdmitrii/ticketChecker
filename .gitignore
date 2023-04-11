@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+rangers-lounge-tickets-finder-48d3081c083d.json
+credentials.json
+env.py
